@@ -1,0 +1,1793 @@
+{
+  "total": 276,
+  "folders": [
+    {
+      "name": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner",
+      "count": 6,
+      "videos": [
+        {
+          "name": "001 Introducción al curso.mp4",
+          "path": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner/001 Introducción al curso.mp4",
+          "folder": "01 - Introducción - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\01 - Introducción - AWS Certified Cloud Practitioner\\001 Introducción al curso.mp4"
+        },
+        {
+          "name": "002 Sobre tu instructor - Joan Amengual.mp4",
+          "path": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner/002 Sobre tu instructor - Joan Amengual.mp4",
+          "folder": "01 - Introducción - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\01 - Introducción - AWS Certified Cloud Practitioner\\002 Sobre tu instructor - Joan Amengual.mp4"
+        },
+        {
+          "name": "003 Accede a la comunidad.mp4",
+          "path": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner/003 Accede a la comunidad.mp4",
+          "folder": "01 - Introducción - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\01 - Introducción - AWS Certified Cloud Practitioner\\003 Accede a la comunidad.mp4"
+        },
+        {
+          "name": "005 Creando una cuenta de AWS - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner/005 Creando una cuenta de AWS - Práctica.mp4",
+          "folder": "01 - Introducción - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\01 - Introducción - AWS Certified Cloud Practitioner\\005 Creando una cuenta de AWS - Práctica.mp4"
+        },
+        {
+          "name": "006 Detalles importantes del curso.mp4",
+          "path": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner/006 Detalles importantes del curso.mp4",
+          "folder": "01 - Introducción - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\01 - Introducción - AWS Certified Cloud Practitioner\\006 Detalles importantes del curso.mp4"
+        },
+        {
+          "name": "007 Cambio del idioma del Dashboard de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/01 - Introducción - AWS Certified Cloud Practitioner/007 Cambio del idioma del Dashboard de AWS.mp4",
+          "folder": "01 - Introducción - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\01 - Introducción - AWS Certified Cloud Practitioner\\007 Cambio del idioma del Dashboard de AWS.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing",
+      "count": 8,
+      "videos": [
+        {
+          "name": "001 Vista general de la IT (Tecnología de la información) tradicional.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/001 Vista general de la IT (Tecnología de la información) tradicional.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\001 Vista general de la IT (Tecnología de la información) tradicional.mp4"
+        },
+        {
+          "name": "002 ¿Qué es el Cloud Computing.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/002 ¿Qué es el Cloud Computing.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\002 ¿Qué es el Cloud Computing.mp4"
+        },
+        {
+          "name": "003 Diferentes tipos de Cloud Computing.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/003 Diferentes tipos de Cloud Computing.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\003 Diferentes tipos de Cloud Computing.mp4"
+        },
+        {
+          "name": "004 Vista general del Cloud de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/004 Vista general del Cloud de AWS.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\004 Vista general del Cloud de AWS.mp4"
+        },
+        {
+          "name": "005 Infraestructura global de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/005 Infraestructura global de AWS.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\005 Infraestructura global de AWS.mp4"
+        },
+        {
+          "name": "006 Tour por la Consola y los servicios en AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/006 Tour por la Consola y los servicios en AWS.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\006 Tour por la Consola y los servicios en AWS.mp4"
+        },
+        {
+          "name": "007 Sobre los cambios en la interfaz de usuario de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/007 Sobre los cambios en la interfaz de usuario de AWS.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\007 Sobre los cambios en la interfaz de usuario de AWS.mp4"
+        },
+        {
+          "name": "008 Modelo de responsabilidad compartida y política aceptable de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/03 - ¿Qué es el Cloud Computing/008 Modelo de responsabilidad compartida y política aceptable de AWS.mp4",
+          "folder": "03 - ¿Qué es el Cloud Computing",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\03 - ¿Qué es el Cloud Computing\\008 Modelo de responsabilidad compartida y política aceptable de AWS.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management",
+      "count": 21,
+      "videos": [
+        {
+          "name": "001 Introducción a IAM Usuarios, grupos y políticas.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/001 Introducción a IAM Usuarios, grupos y políticas.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\001 Introducción a IAM Usuarios, grupos y políticas.mp4"
+        },
+        {
+          "name": "002 Usuarios y grupos de IAM - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/002 Usuarios y grupos de IAM - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\002 Usuarios y grupos de IAM - Práctica.mp4"
+        },
+        {
+          "name": "003 Acceso como usuario IAM - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/003 Acceso como usuario IAM - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\003 Acceso como usuario IAM - Práctica.mp4"
+        },
+        {
+          "name": "004 Políticas IAM.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/004 Políticas IAM.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\004 Políticas IAM.mp4"
+        },
+        {
+          "name": "005 Políticas IAM - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/005 Políticas IAM - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\005 Políticas IAM - Práctica.mp4"
+        },
+        {
+          "name": "006 Usuario IAM en múltiples grupos - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/006 Usuario IAM en múltiples grupos - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\006 Usuario IAM en múltiples grupos - Práctica.mp4"
+        },
+        {
+          "name": "007 Visión general de IAM MFA.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/007 Visión general de IAM MFA.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\007 Visión general de IAM MFA.mp4"
+        },
+        {
+          "name": "008 IAM MFA - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/008 IAM MFA - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\008 IAM MFA - Práctica.mp4"
+        },
+        {
+          "name": "009 Claves de acceso de AWS, CLI y SDK.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/009 Claves de acceso de AWS, CLI y SDK.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\009 Claves de acceso de AWS, CLI y SDK.mp4"
+        },
+        {
+          "name": "010 Configuración de la CLI de AWS en Windows.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/010 Configuración de la CLI de AWS en Windows.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\010 Configuración de la CLI de AWS en Windows.mp4"
+        },
+        {
+          "name": "011 Configuración de la CLI de AWS en Mac.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/011 Configuración de la CLI de AWS en Mac.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\011 Configuración de la CLI de AWS en Mac.mp4"
+        },
+        {
+          "name": "012 Configuración de la CLI de AWS en Linux.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/012 Configuración de la CLI de AWS en Linux.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\012 Configuración de la CLI de AWS en Linux.mp4"
+        },
+        {
+          "name": "013 CLI de AWS - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/013 CLI de AWS - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\013 CLI de AWS - Práctica.mp4"
+        },
+        {
+          "name": "014 AWS CloudShell.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/014 AWS CloudShell.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\014 AWS CloudShell.mp4"
+        },
+        {
+          "name": "015 Roles de IAM para los servicios de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/015 Roles de IAM para los servicios de AWS.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\015 Roles de IAM para los servicios de AWS.mp4"
+        },
+        {
+          "name": "016 Roles de IAM - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/016 Roles de IAM - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\016 Roles de IAM - Práctica.mp4"
+        },
+        {
+          "name": "017 Herramientas de seguridad de IAM.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/017 Herramientas de seguridad de IAM.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\017 Herramientas de seguridad de IAM.mp4"
+        },
+        {
+          "name": "018 Herramientas de seguridad de IAM - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/018 Herramientas de seguridad de IAM - Práctica.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\018 Herramientas de seguridad de IAM - Práctica.mp4"
+        },
+        {
+          "name": "019 Mejores prácticas de IAM.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/019 Mejores prácticas de IAM.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\019 Mejores prácticas de IAM.mp4"
+        },
+        {
+          "name": "020 Modelo de responsabilidad compartida para IAM.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/020 Modelo de responsabilidad compartida para IAM.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\020 Modelo de responsabilidad compartida para IAM.mp4"
+        },
+        {
+          "name": "021 Resumen - IAM.mp4",
+          "path": "certified-cloud-practitioner-aws/04 - IAM - Identity and Access Management/021 Resumen - IAM.mp4",
+          "folder": "04 - IAM - Identity and Access Management",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\04 - IAM - Identity and Access Management\\021 Resumen - IAM.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud",
+      "count": 15,
+      "videos": [
+        {
+          "name": "001 Configuración del presupuesto de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/001 Configuración del presupuesto de AWS.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\001 Configuración del presupuesto de AWS.mp4"
+        },
+        {
+          "name": "002 Fundamentos de EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/002 Fundamentos de EC2.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\002 Fundamentos de EC2.mp4"
+        },
+        {
+          "name": "003 Crear una instancia EC2 con datos de usuario para tener un sitio web - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/003 Crear una instancia EC2 con datos de usuario para tener un sitio web - Práctica.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\003 Crear una instancia EC2 con datos de usuario para tener un sitio web - Práctica.mp4"
+        },
+        {
+          "name": "005 Tipos básicos de instancias EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/005 Tipos básicos de instancias EC2.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\005 Tipos básicos de instancias EC2.mp4"
+        },
+        {
+          "name": "006 Grupos de seguridad y puertos clásicos.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/006 Grupos de seguridad y puertos clásicos.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\006 Grupos de seguridad y puertos clásicos.mp4"
+        },
+        {
+          "name": "007 Grupos de seguridad - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/007 Grupos de seguridad - Práctica.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\007 Grupos de seguridad - Práctica.mp4"
+        },
+        {
+          "name": "008 Visión general de SSH.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/008 Visión general de SSH.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\008 Visión general de SSH.mp4"
+        },
+        {
+          "name": "009 Cómo utilizar SSH usando Linux o Mac.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/009 Cómo utilizar SSH usando Linux o Mac.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\009 Cómo utilizar SSH usando Linux o Mac.mp4"
+        },
+        {
+          "name": "010 Cómo utilizar SSH usando Windows.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/010 Cómo utilizar SSH usando Windows.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\010 Cómo utilizar SSH usando Windows.mp4"
+        },
+        {
+          "name": "011 Cómo utilizar SSH usando Windows 10.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/011 Cómo utilizar SSH usando Windows 10.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\011 Cómo utilizar SSH usando Windows 10.mp4"
+        },
+        {
+          "name": "013 EC2 Instance Connect.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/013 EC2 Instance Connect.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\013 EC2 Instance Connect.mp4"
+        },
+        {
+          "name": "014 Demostración de los roles de las instancias de EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/014 Demostración de los roles de las instancias de EC2.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\014 Demostración de los roles de las instancias de EC2.mp4"
+        },
+        {
+          "name": "015 Opciones de compra de instancias EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/015 Opciones de compra de instancias EC2.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\015 Opciones de compra de instancias EC2.mp4"
+        },
+        {
+          "name": "016 Modelo de responsabilidad compartida para EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/016 Modelo de responsabilidad compartida para EC2.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\016 Modelo de responsabilidad compartida para EC2.mp4"
+        },
+        {
+          "name": "017 Resumen - EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/05 - EC2 - Elastic Compute Cloud/017 Resumen - EC2.mp4",
+          "folder": "05 - EC2 - Elastic Compute Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\05 - EC2 - Elastic Compute Cloud\\017 Resumen - EC2.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2",
+      "count": 13,
+      "videos": [
+        {
+          "name": "001 Visión general de EBS.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/001 Visión general de EBS.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\001 Visión general de EBS.mp4"
+        },
+        {
+          "name": "003 EBS - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/003 EBS - Práctica.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\003 EBS - Práctica.mp4"
+        },
+        {
+          "name": "004 Visión general de EBS Snapshots.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/004 Visión general de EBS Snapshots.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\004 Visión general de EBS Snapshots.mp4"
+        },
+        {
+          "name": "005 EBS Snapshots - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/005 EBS Snapshots - Práctica.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\005 EBS Snapshots - Práctica.mp4"
+        },
+        {
+          "name": "006 Visión general de AMI.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/006 Visión general de AMI.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\006 Visión general de AMI.mp4"
+        },
+        {
+          "name": "007 AMI - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/007 AMI - Práctica.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\007 AMI - Práctica.mp4"
+        },
+        {
+          "name": "008 Visión general de EC2 Image Builder.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/008 Visión general de EC2 Image Builder.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\008 Visión general de EC2 Image Builder.mp4"
+        },
+        {
+          "name": "009 EC2 Instance Store.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/009 EC2 Instance Store.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\009 EC2 Instance Store.mp4"
+        },
+        {
+          "name": "010 Visión general de EFS.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/010 Visión general de EFS.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\010 Visión general de EFS.mp4"
+        },
+        {
+          "name": "011 Modelo de responsabilidad compartida para el almacenamiento de instancias EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/011 Modelo de responsabilidad compartida para el almacenamiento de instancias EC2.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\011 Modelo de responsabilidad compartida para el almacenamiento de instancias EC2.mp4"
+        },
+        {
+          "name": "012 Visión general de Amazon FSx.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/012 Visión general de Amazon FSx.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\012 Visión general de Amazon FSx.mp4"
+        },
+        {
+          "name": "013 Resumen - Almacenamiento de instancias EC2.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/013 Resumen - Almacenamiento de instancias EC2.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\013 Resumen - Almacenamiento de instancias EC2.mp4"
+        },
+        {
+          "name": "014 Limpieza de secciones.mp4",
+          "path": "certified-cloud-practitioner-aws/06 - Almacenamiento de instancias EC2/014 Limpieza de secciones.mp4",
+          "folder": "06 - Almacenamiento de instancias EC2",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\06 - Almacenamiento de instancias EC2\\014 Limpieza de secciones.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+      "count": 8,
+      "videos": [
+        {
+          "name": "001 Alta disponibilidad, escalabilidad y elasticidad.mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/001 Alta disponibilidad, escalabilidad y elasticidad.mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\001 Alta disponibilidad, escalabilidad y elasticidad.mp4"
+        },
+        {
+          "name": "002 Elastic Load Balancing (ELB).mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/002 Elastic Load Balancing (ELB).mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\002 Elastic Load Balancing (ELB).mp4"
+        },
+        {
+          "name": "003 Application Load Balancer (ALB) - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/003 Application Load Balancer (ALB) - Práctica.mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\003 Application Load Balancer (ALB) - Práctica.mp4"
+        },
+        {
+          "name": "004 Visión general de Auto Scaling Groups (ASG).mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/004 Visión general de Auto Scaling Groups (ASG).mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\004 Visión general de Auto Scaling Groups (ASG).mp4"
+        },
+        {
+          "name": "005 Auto Scaling Groups (ASG) - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/005 Auto Scaling Groups (ASG) - Práctica.mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\005 Auto Scaling Groups (ASG) - Práctica.mp4"
+        },
+        {
+          "name": "006 Estrategias de Auto Scaling Groups (ASG).mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/006 Estrategias de Auto Scaling Groups (ASG).mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\006 Estrategias de Auto Scaling Groups (ASG).mp4"
+        },
+        {
+          "name": "007 Limpieza de secciones.mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/007 Limpieza de secciones.mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\007 Limpieza de secciones.mp4"
+        },
+        {
+          "name": "008 Resumen - ELB y ASG.mp4",
+          "path": "certified-cloud-practitioner-aws/07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups/008 Resumen - ELB y ASG.mp4",
+          "folder": "07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\07 - ELB y ASG - Elastic Load Balancing y Auto Scaling Groups\\008 Resumen - ELB y ASG.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/08 - S3",
+      "count": 19,
+      "videos": [
+        {
+          "name": "001 Visión general de S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/001 Visión general de S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\001 Visión general de S3.mp4"
+        },
+        {
+          "name": "002 S3 - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/002 S3 - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\002 S3 - Práctica.mp4"
+        },
+        {
+          "name": "003 Seguridad en S3 Política de buckets.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/003 Seguridad en S3 Política de buckets.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\003 Seguridad en S3 Política de buckets.mp4"
+        },
+        {
+          "name": "004 Seguridad en S3 Política de buckets - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/004 Seguridad en S3 Política de buckets - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\004 Seguridad en S3 Política de buckets - Práctica.mp4"
+        },
+        {
+          "name": "005 Visión general de sitios web usando S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/005 Visión general de sitios web usando S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\005 Visión general de sitios web usando S3.mp4"
+        },
+        {
+          "name": "006 Sitio web usando S3 - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/006 Sitio web usando S3 - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\006 Sitio web usando S3 - Práctica.mp4"
+        },
+        {
+          "name": "007 Visión general del versionado de S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/007 Visión general del versionado de S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\007 Visión general del versionado de S3.mp4"
+        },
+        {
+          "name": "008 Versionado de S3 - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/008 Versionado de S3 - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\008 Versionado de S3 - Práctica.mp4"
+        },
+        {
+          "name": "009 Visión general de la replicación de S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/009 Visión general de la replicación de S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\009 Visión general de la replicación de S3.mp4"
+        },
+        {
+          "name": "010 Replicación de S3 - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/010 Replicación de S3 - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\010 Replicación de S3 - Práctica.mp4"
+        },
+        {
+          "name": "011 Visión general de las clases de almacenamiento de S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/011 Visión general de las clases de almacenamiento de S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\011 Visión general de las clases de almacenamiento de S3.mp4"
+        },
+        {
+          "name": "012 Clases de almacenamiento de S3 - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/012 Clases de almacenamiento de S3 - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\012 Clases de almacenamiento de S3 - Práctica.mp4"
+        },
+        {
+          "name": "013 S3 Glacier Vault Lock y S3 Object Lock.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/013 S3 Glacier Vault Lock y S3 Object Lock.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\013 S3 Glacier Vault Lock y S3 Object Lock.mp4"
+        },
+        {
+          "name": "014 Cifrado S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/014 Cifrado S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\014 Cifrado S3.mp4"
+        },
+        {
+          "name": "015 Modelo de responsabilidad compartida para S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/015 Modelo de responsabilidad compartida para S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\015 Modelo de responsabilidad compartida para S3.mp4"
+        },
+        {
+          "name": "016 Familia AWS Snow.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/016 Familia AWS Snow.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\016 Familia AWS Snow.mp4"
+        },
+        {
+          "name": "017 Familia AWS Snow - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/017 Familia AWS Snow - Práctica.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\017 Familia AWS Snow - Práctica.mp4"
+        },
+        {
+          "name": "018 Visión general de Storage Gateway.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/018 Visión general de Storage Gateway.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\018 Visión general de Storage Gateway.mp4"
+        },
+        {
+          "name": "019 Resumen - S3.mp4",
+          "path": "certified-cloud-practitioner-aws/08 - S3/019 Resumen - S3.mp4",
+          "folder": "08 - S3",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\08 - S3\\019 Resumen - S3.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas",
+      "count": 19,
+      "videos": [
+        {
+          "name": "001 Introducción a las bases de datos.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/001 Introducción a las bases de datos.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\001 Introducción a las bases de datos.mp4"
+        },
+        {
+          "name": "002 Visión general de RDS y Aurora.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/002 Visión general de RDS y Aurora.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\002 Visión general de RDS y Aurora.mp4"
+        },
+        {
+          "name": "003 RDS - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/003 RDS - Práctica.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\003 RDS - Práctica.mp4"
+        },
+        {
+          "name": "004 Opciones de despliegue de RDS.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/004 Opciones de despliegue de RDS.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\004 Opciones de despliegue de RDS.mp4"
+        },
+        {
+          "name": "005 Visión general de ElastiCache.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/005 Visión general de ElastiCache.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\005 Visión general de ElastiCache.mp4"
+        },
+        {
+          "name": "006 Visión general de DynamoDB.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/006 Visión general de DynamoDB.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\006 Visión general de DynamoDB.mp4"
+        },
+        {
+          "name": "007 DynamoDB - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/007 DynamoDB - Práctica.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\007 DynamoDB - Práctica.mp4"
+        },
+        {
+          "name": "008 Tablas globales de DynamoDB.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/008 Tablas globales de DynamoDB.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\008 Tablas globales de DynamoDB.mp4"
+        },
+        {
+          "name": "009 Visión general de Redshift.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/009 Visión general de Redshift.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\009 Visión general de Redshift.mp4"
+        },
+        {
+          "name": "010 Visión general de EMR.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/010 Visión general de EMR.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\010 Visión general de EMR.mp4"
+        },
+        {
+          "name": "011 Visión general de Athena.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/011 Visión general de Athena.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\011 Visión general de Athena.mp4"
+        },
+        {
+          "name": "012 Visión general de QuickSight.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/012 Visión general de QuickSight.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\012 Visión general de QuickSight.mp4"
+        },
+        {
+          "name": "013 Visión general de DocumentDB.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/013 Visión general de DocumentDB.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\013 Visión general de DocumentDB.mp4"
+        },
+        {
+          "name": "014 Visión general de Neptune.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/014 Visión general de Neptune.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\014 Visión general de Neptune.mp4"
+        },
+        {
+          "name": "015 Visión general de QLDB.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/015 Visión general de QLDB.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\015 Visión general de QLDB.mp4"
+        },
+        {
+          "name": "016 Visión general de Managed Blockchain.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/016 Visión general de Managed Blockchain.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\016 Visión general de Managed Blockchain.mp4"
+        },
+        {
+          "name": "017 Visión general de Glue.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/017 Visión general de Glue.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\017 Visión general de Glue.mp4"
+        },
+        {
+          "name": "018 Visión general de DMS.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/018 Visión general de DMS.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\018 Visión general de DMS.mp4"
+        },
+        {
+          "name": "019 Resumen - Bases de datos y analíticas.mp4",
+          "path": "certified-cloud-practitioner-aws/09 - Bases de datos y analíticas/019 Resumen - Bases de datos y analíticas.mp4",
+          "folder": "09 - Bases de datos y analíticas",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\09 - Bases de datos y analíticas\\019 Resumen - Bases de datos y analíticas.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+      "count": 10,
+      "videos": [
+        {
+          "name": "001 ¿Qué es Docker.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/001 ¿Qué es Docker.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\001 ¿Qué es Docker.mp4"
+        },
+        {
+          "name": "002 Visión general de ECS, Fargate y ECR.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/002 Visión general de ECS, Fargate y ECR.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\002 Visión general de ECS, Fargate y ECR.mp4"
+        },
+        {
+          "name": "003 Introducción a Serverless.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/003 Introducción a Serverless.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\003 Introducción a Serverless.mp4"
+        },
+        {
+          "name": "004 Visión general de Lambda.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/004 Visión general de Lambda.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\004 Visión general de Lambda.mp4"
+        },
+        {
+          "name": "005 Lambda - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/005 Lambda - Práctica.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\005 Lambda - Práctica.mp4"
+        },
+        {
+          "name": "006 Visión general de API Gateway.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/006 Visión general de API Gateway.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\006 Visión general de API Gateway.mp4"
+        },
+        {
+          "name": "007 Visión general de Batch.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/007 Visión general de Batch.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\007 Visión general de Batch.mp4"
+        },
+        {
+          "name": "008 Visión general de Lightsail.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/008 Visión general de Lightsail.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\008 Visión general de Lightsail.mp4"
+        },
+        {
+          "name": "009 Lightsail - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/009 Lightsail - Práctica.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\009 Lightsail - Práctica.mp4"
+        },
+        {
+          "name": "010 Resumen - Otros servicios de computación.mp4",
+          "path": "certified-cloud-practitioner-aws/10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail/010 Resumen - Otros servicios de computación.mp4",
+          "folder": "10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\10 - Otros servicios de computación ECS, Lambda, Batch, Lightsail\\010 Resumen - Otros servicios de computación.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala",
+      "count": 16,
+      "videos": [
+        {
+          "name": "001 Visión general de CloudFormation.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/001 Visión general de CloudFormation.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\001 Visión general de CloudFormation.mp4"
+        },
+        {
+          "name": "002 CloudFormation - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/002 CloudFormation - Práctica.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\002 CloudFormation - Práctica.mp4"
+        },
+        {
+          "name": "003 Visión general de CDK.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/003 Visión general de CDK.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\003 Visión general de CDK.mp4"
+        },
+        {
+          "name": "004 Visión general de Beanstalk.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/004 Visión general de Beanstalk.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\004 Visión general de Beanstalk.mp4"
+        },
+        {
+          "name": "005 Beanstalk - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/005 Beanstalk - Práctica.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\005 Beanstalk - Práctica.mp4"
+        },
+        {
+          "name": "006 Visión general de CodeDeploy.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/006 Visión general de CodeDeploy.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\006 Visión general de CodeDeploy.mp4"
+        },
+        {
+          "name": "007 Visión general de CodeCommit.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/007 Visión general de CodeCommit.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\007 Visión general de CodeCommit.mp4"
+        },
+        {
+          "name": "008 Visión general de CodeBuild.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/008 Visión general de CodeBuild.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\008 Visión general de CodeBuild.mp4"
+        },
+        {
+          "name": "009 Visión general de CodePipeline.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/009 Visión general de CodePipeline.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\009 Visión general de CodePipeline.mp4"
+        },
+        {
+          "name": "010 Visión general de CodeArtifact.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/010 Visión general de CodeArtifact.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\010 Visión general de CodeArtifact.mp4"
+        },
+        {
+          "name": "011 Visión general de CodeStar.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/011 Visión general de CodeStar.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\011 Visión general de CodeStar.mp4"
+        },
+        {
+          "name": "012 Visión general de Cloud9.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/012 Visión general de Cloud9.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\012 Visión general de Cloud9.mp4"
+        },
+        {
+          "name": "013 Visión general de Systems Manager (SSM).mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/013 Visión general de Systems Manager (SSM).mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\013 Visión general de Systems Manager (SSM).mp4"
+        },
+        {
+          "name": "014 SSM Session Manager.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/014 SSM Session Manager.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\014 SSM Session Manager.mp4"
+        },
+        {
+          "name": "015 Visión general de OpsWorks.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/015 Visión general de OpsWorks.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\015 Visión general de OpsWorks.mp4"
+        },
+        {
+          "name": "016 Resumen -  Despliegue y gestión de la infraestructura a escala.mp4",
+          "path": "certified-cloud-practitioner-aws/11 - Despliegue y gestión de la infraestructura a escala/016 Resumen -  Despliegue y gestión de la infraestructura a escala.mp4",
+          "folder": "11 - Despliegue y gestión de la infraestructura a escala",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\11 - Despliegue y gestión de la infraestructura a escala\\016 Resumen -  Despliegue y gestión de la infraestructura a escala.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS",
+      "count": 12,
+      "videos": [
+        {
+          "name": "001 ¿Por qué aplicaciones globales.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/001 ¿Por qué aplicaciones globales.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\001 ¿Por qué aplicaciones globales.mp4"
+        },
+        {
+          "name": "002 Visión general de Route 53.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/002 Visión general de Route 53.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\002 Visión general de Route 53.mp4"
+        },
+        {
+          "name": "003 Route53 - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/003 Route53 - Práctica.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\003 Route53 - Práctica.mp4"
+        },
+        {
+          "name": "004 Visión general de CloudFront.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/004 Visión general de CloudFront.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\004 Visión general de CloudFront.mp4"
+        },
+        {
+          "name": "005 CloudFront - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/005 CloudFront - Práctica.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\005 CloudFront - Práctica.mp4"
+        },
+        {
+          "name": "006 S3 Transfer Acceleration.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/006 S3 Transfer Acceleration.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\006 S3 Transfer Acceleration.mp4"
+        },
+        {
+          "name": "007 AWS Global Accelerator.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/007 AWS Global Accelerator.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\007 AWS Global Accelerator.mp4"
+        },
+        {
+          "name": "008 AWS Outposts.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/008 AWS Outposts.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\008 AWS Outposts.mp4"
+        },
+        {
+          "name": "009 AWS WaveLength.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/009 AWS WaveLength.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\009 AWS WaveLength.mp4"
+        },
+        {
+          "name": "010 Zonas locales de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/010 Zonas locales de AWS.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\010 Zonas locales de AWS.mp4"
+        },
+        {
+          "name": "011 Arquitectura global de aplicaciones.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/011 Arquitectura global de aplicaciones.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\011 Arquitectura global de aplicaciones.mp4"
+        },
+        {
+          "name": "012 Resumen - Aprovechamiento de la infraestructura global de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/12 - Aprovechando la infraestructura global de AWS/012 Resumen - Aprovechamiento de la infraestructura global de AWS.mp4",
+          "folder": "12 - Aprovechando la infraestructura global de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\12 - Aprovechando la infraestructura global de AWS\\012 Resumen - Aprovechamiento de la infraestructura global de AWS.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud",
+      "count": 8,
+      "videos": [
+        {
+          "name": "001 Visión general de las integraciones del Cloud.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/001 Visión general de las integraciones del Cloud.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\001 Visión general de las integraciones del Cloud.mp4"
+        },
+        {
+          "name": "002 Visión general de SQS.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/002 Visión general de SQS.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\002 Visión general de SQS.mp4"
+        },
+        {
+          "name": "003 SQS - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/003 SQS - Práctica.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\003 SQS - Práctica.mp4"
+        },
+        {
+          "name": "004 Visión general de Kinesis.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/004 Visión general de Kinesis.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\004 Visión general de Kinesis.mp4"
+        },
+        {
+          "name": "005 Visión general de SNS.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/005 Visión general de SNS.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\005 Visión general de SNS.mp4"
+        },
+        {
+          "name": "006 SNS - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/006 SNS - Práctica.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\006 SNS - Práctica.mp4"
+        },
+        {
+          "name": "007 Amazon MQ.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/007 Amazon MQ.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\007 Amazon MQ.mp4"
+        },
+        {
+          "name": "008 Resumen - Integraciones del Cloud.mp4",
+          "path": "certified-cloud-practitioner-aws/13 - Integraciones del Cloud/008 Resumen - Integraciones del Cloud.mp4",
+          "folder": "13 - Integraciones del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\13 - Integraciones del Cloud\\008 Resumen - Integraciones del Cloud.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud",
+      "count": 13,
+      "videos": [
+        {
+          "name": "001 Visión general de las métricas y las alarmas de CloudWatch.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/001 Visión general de las métricas y las alarmas de CloudWatch.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\001 Visión general de las métricas y las alarmas de CloudWatch.mp4"
+        },
+        {
+          "name": "002 Métricas y alarmas de CloudWatch - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/002 Métricas y alarmas de CloudWatch - Práctica.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\002 Métricas y alarmas de CloudWatch - Práctica.mp4"
+        },
+        {
+          "name": "003 Visión general de CloudWatch Logs.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/003 Visión general de CloudWatch Logs.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\003 Visión general de CloudWatch Logs.mp4"
+        },
+        {
+          "name": "004 CloudWatch Logs - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/004 CloudWatch Logs - Práctica.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\004 CloudWatch Logs - Práctica.mp4"
+        },
+        {
+          "name": "005 Visión general de EventBridge (antes CloudWatch Events).mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/005 Visión general de EventBridge (antes CloudWatch Events).mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\005 Visión general de EventBridge (antes CloudWatch Events).mp4"
+        },
+        {
+          "name": "006 EventBridge - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/006 EventBridge - Práctica.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\006 EventBridge - Práctica.mp4"
+        },
+        {
+          "name": "007 Visión general de CloudTrail.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/007 Visión general de CloudTrail.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\007 Visión general de CloudTrail.mp4"
+        },
+        {
+          "name": "008 CloudTrail - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/008 CloudTrail - Práctica.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\008 CloudTrail - Práctica.mp4"
+        },
+        {
+          "name": "009 Visión general de X-Ray.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/009 Visión general de X-Ray.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\009 Visión general de X-Ray.mp4"
+        },
+        {
+          "name": "010 Visión general de CodeGuru.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/010 Visión general de CodeGuru.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\010 Visión general de CodeGuru.mp4"
+        },
+        {
+          "name": "011 AWS Health Dashboard.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/011 AWS Health Dashboard.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\011 AWS Health Dashboard.mp4"
+        },
+        {
+          "name": "012 AWS Health Dashboard - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/012 AWS Health Dashboard - Práctica.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\012 AWS Health Dashboard - Práctica.mp4"
+        },
+        {
+          "name": "013 Resumen - Monitorización del Cloud.mp4",
+          "path": "certified-cloud-practitioner-aws/14 - Monitorización del Cloud/013 Resumen - Monitorización del Cloud.mp4",
+          "folder": "14 - Monitorización del Cloud",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\14 - Monitorización del Cloud\\013 Resumen - Monitorización del Cloud.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)",
+      "count": 11,
+      "videos": [
+        {
+          "name": "001 Visión general de VPC.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/001 Visión general de VPC.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\001 Visión general de VPC.mp4"
+        },
+        {
+          "name": "002 Direcciones IP en AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/002 Direcciones IP en AWS.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\002 Direcciones IP en AWS.mp4"
+        },
+        {
+          "name": "003 VPC, subred, gateway de Internet y gateway NAT.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/003 VPC, subred, gateway de Internet y gateway NAT.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\003 VPC, subred, gateway de Internet y gateway NAT.mp4"
+        },
+        {
+          "name": "004 Grupos de seguridad y lista de control de acceso a la red (NACL).mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/004 Grupos de seguridad y lista de control de acceso a la red (NACL).mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\004 Grupos de seguridad y lista de control de acceso a la red (NACL).mp4"
+        },
+        {
+          "name": "005 Logs de flujo VPC y VPC Peering.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/005 Logs de flujo VPC y VPC Peering.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\005 Logs de flujo VPC y VPC Peering.mp4"
+        },
+        {
+          "name": "006 Endpoints de VPC - Interfaz y Gateway (S3 y DynamoDB).mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/006 Endpoints de VPC - Interfaz y Gateway (S3 y DynamoDB).mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\006 Endpoints de VPC - Interfaz y Gateway (S3 y DynamoDB).mp4"
+        },
+        {
+          "name": "007 AWS PrivateLink (Servicios VPC Endpoint).mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/007 AWS PrivateLink (Servicios VPC Endpoint).mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\007 AWS PrivateLink (Servicios VPC Endpoint).mp4"
+        },
+        {
+          "name": "008 Direct Connect y VPN  Site-to-Site.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/008 Direct Connect y VPN  Site-to-Site.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\008 Direct Connect y VPN  Site-to-Site.mp4"
+        },
+        {
+          "name": "009 Cliente VPN.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/009 Cliente VPN.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\009 Cliente VPN.mp4"
+        },
+        {
+          "name": "010 Visión general de Transit Gateway.mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/010 Visión general de Transit Gateway.mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\010 Visión general de Transit Gateway.mp4"
+        },
+        {
+          "name": "011 Resumen - Virtual Private Cloud (VPC).mp4",
+          "path": "certified-cloud-practitioner-aws/15 - Virtual Private Cloud (VPC)/011 Resumen - Virtual Private Cloud (VPC).mp4",
+          "folder": "15 - Virtual Private Cloud (VPC)",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\15 - Virtual Private Cloud (VPC)\\011 Resumen - Virtual Private Cloud (VPC).mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/16 - Seguridad y normativa",
+      "count": 19,
+      "videos": [
+        {
+          "name": "001 Modelo de responsabilidad compartida Recordatorios y ejemplos.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/001 Modelo de responsabilidad compartida Recordatorios y ejemplos.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\001 Modelo de responsabilidad compartida Recordatorios y ejemplos.mp4"
+        },
+        {
+          "name": "002 Protección DDoS WAF y Shield.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/002 Protección DDoS WAF y Shield.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\002 Protección DDoS WAF y Shield.mp4"
+        },
+        {
+          "name": "003 AWS Network Firewall.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/003 AWS Network Firewall.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\003 AWS Network Firewall.mp4"
+        },
+        {
+          "name": "004 Pruebas de penetración.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/004 Pruebas de penetración.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\004 Pruebas de penetración.mp4"
+        },
+        {
+          "name": "005 Encriptación con KMS y CloudHSM.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/005 Encriptación con KMS y CloudHSM.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\005 Encriptación con KMS y CloudHSM.mp4"
+        },
+        {
+          "name": "006 Encriptación con KMS y CloudHSM - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/006 Encriptación con KMS y CloudHSM - Práctica.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\006 Encriptación con KMS y CloudHSM - Práctica.mp4"
+        },
+        {
+          "name": "007 Visión general de AWS Certificate Manager (ACM).mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/007 Visión general de AWS Certificate Manager (ACM).mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\007 Visión general de AWS Certificate Manager (ACM).mp4"
+        },
+        {
+          "name": "008 Visión general de Secrets Manager.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/008 Visión general de Secrets Manager.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\008 Visión general de Secrets Manager.mp4"
+        },
+        {
+          "name": "009 Visión general de Artifacts.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/009 Visión general de Artifacts.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\009 Visión general de Artifacts.mp4"
+        },
+        {
+          "name": "010 Visión general de GuardDuty.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/010 Visión general de GuardDuty.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\010 Visión general de GuardDuty.mp4"
+        },
+        {
+          "name": "011 Visión general de Inspector.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/011 Visión general de Inspector.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\011 Visión general de Inspector.mp4"
+        },
+        {
+          "name": "012 Visión general de Config.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/012 Visión general de Config.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\012 Visión general de Config.mp4"
+        },
+        {
+          "name": "013 Visión general de Macie.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/013 Visión general de Macie.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\013 Visión general de Macie.mp4"
+        },
+        {
+          "name": "014 Visión general de Security Hub.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/014 Visión general de Security Hub.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\014 Visión general de Security Hub.mp4"
+        },
+        {
+          "name": "015 Visión general de Amazon Detective.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/015 Visión general de Amazon Detective.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\015 Visión general de Amazon Detective.mp4"
+        },
+        {
+          "name": "016 AWS Abuse.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/016 AWS Abuse.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\016 AWS Abuse.mp4"
+        },
+        {
+          "name": "017 Privilegios de usuario root.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/017 Privilegios de usuario root.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\017 Privilegios de usuario root.mp4"
+        },
+        {
+          "name": "018 IAM Access Analyzer.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/018 IAM Access Analyzer.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\018 IAM Access Analyzer.mp4"
+        },
+        {
+          "name": "019 Resumen - Seguridad y normativa.mp4",
+          "path": "certified-cloud-practitioner-aws/16 - Seguridad y normativa/019 Resumen - Seguridad y normativa.mp4",
+          "folder": "16 - Seguridad y normativa",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\16 - Seguridad y normativa\\019 Resumen - Seguridad y normativa.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/17 - Machine Learning",
+      "count": 12,
+      "videos": [
+        {
+          "name": "001 Visión general de Rekognition.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/001 Visión general de Rekognition.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\001 Visión general de Rekognition.mp4"
+        },
+        {
+          "name": "002 Visión general de Transcribe.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/002 Visión general de Transcribe.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\002 Visión general de Transcribe.mp4"
+        },
+        {
+          "name": "003 Visión general de Polly.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/003 Visión general de Polly.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\003 Visión general de Polly.mp4"
+        },
+        {
+          "name": "004 Visión general de Translate.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/004 Visión general de Translate.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\004 Visión general de Translate.mp4"
+        },
+        {
+          "name": "005 Visión general de Lex + Connect.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/005 Visión general de Lex + Connect.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\005 Visión general de Lex + Connect.mp4"
+        },
+        {
+          "name": "006 Visión general de Comprehend.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/006 Visión general de Comprehend.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\006 Visión general de Comprehend.mp4"
+        },
+        {
+          "name": "007 Visión general de SageMaker.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/007 Visión general de SageMaker.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\007 Visión general de SageMaker.mp4"
+        },
+        {
+          "name": "008 Visión general de Forecast.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/008 Visión general de Forecast.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\008 Visión general de Forecast.mp4"
+        },
+        {
+          "name": "009 Visión general de Kendra.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/009 Visión general de Kendra.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\009 Visión general de Kendra.mp4"
+        },
+        {
+          "name": "010 Visión general de Personalize.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/010 Visión general de Personalize.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\010 Visión general de Personalize.mp4"
+        },
+        {
+          "name": "011 Visión general de Textract.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/011 Visión general de Textract.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\011 Visión general de Textract.mp4"
+        },
+        {
+          "name": "012 Resumen - Machine Learning.mp4",
+          "path": "certified-cloud-practitioner-aws/17 - Machine Learning/012 Resumen - Machine Learning.mp4",
+          "folder": "17 - Machine Learning",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\17 - Machine Learning\\012 Resumen - Machine Learning.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico",
+      "count": 19,
+      "videos": [
+        {
+          "name": "001 Visión general de Organizations.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/001 Visión general de Organizations.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\001 Visión general de Organizations.mp4"
+        },
+        {
+          "name": "002 Organizations - Práctica.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/002 Organizations - Práctica.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\002 Organizations - Práctica.mp4"
+        },
+        {
+          "name": "003 Facturación consolidada de Organizations.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/003 Facturación consolidada de Organizations.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\003 Facturación consolidada de Organizations.mp4"
+        },
+        {
+          "name": "004 Visión general de AWS Control Tower.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/004 Visión general de AWS Control Tower.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\004 Visión general de AWS Control Tower.mp4"
+        },
+        {
+          "name": "005 AWS Resource Access Manager (AWS RAM).mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/005 AWS Resource Access Manager (AWS RAM).mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\005 AWS Resource Access Manager (AWS RAM).mp4"
+        },
+        {
+          "name": "006 Visión general de AWS Service Catalog.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/006 Visión general de AWS Service Catalog.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\006 Visión general de AWS Service Catalog.mp4"
+        },
+        {
+          "name": "007 Modelos de precios del Cloud.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/007 Modelos de precios del Cloud.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\007 Modelos de precios del Cloud.mp4"
+        },
+        {
+          "name": "008 Visión general de los Saving Plans de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/008 Visión general de los Saving Plans de AWS.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\008 Visión general de los Saving Plans de AWS.mp4"
+        },
+        {
+          "name": "009 Visión general de Compute Optimizer.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/009 Visión general de Compute Optimizer.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\009 Visión general de Compute Optimizer.mp4"
+        },
+        {
+          "name": "010 Herramientas de facturación y cálculo de costes.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/010 Herramientas de facturación y cálculo de costes.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\010 Herramientas de facturación y cálculo de costes.mp4"
+        },
+        {
+          "name": "011 Estimación de costes en el Cloud - Calculadora de precios.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/011 Estimación de costes en el Cloud - Calculadora de precios.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\011 Estimación de costes en el Cloud - Calculadora de precios.mp4"
+        },
+        {
+          "name": "012 Dashboard de facturación, etiquetas de asignación de costes e informes.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/012 Dashboard de facturación, etiquetas de asignación de costes e informes.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\012 Dashboard de facturación, etiquetas de asignación de costes e informes.mp4"
+        },
+        {
+          "name": "013 Seguimiento de los costes en el Cloud - Alarmas de facturación y presupuestos.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/013 Seguimiento de los costes en el Cloud - Alarmas de facturación y presupuestos.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\013 Seguimiento de los costes en el Cloud - Alarmas de facturación y presupuestos.mp4"
+        },
+        {
+          "name": "014 AWS Cost Anomaly Detection.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/014 AWS Cost Anomaly Detection.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\014 AWS Cost Anomaly Detection.mp4"
+        },
+        {
+          "name": "015 AWS Service Quotas.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/015 AWS Service Quotas.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\015 AWS Service Quotas.mp4"
+        },
+        {
+          "name": "016 AWS Trusted Advisor.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/016 AWS Trusted Advisor.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\016 AWS Trusted Advisor.mp4"
+        },
+        {
+          "name": "017 Planes de soporte para AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/017 Planes de soporte para AWS.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\017 Planes de soporte para AWS.mp4"
+        },
+        {
+          "name": "018 Resumen - Mejores prácticas de la cuenta.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/018 Resumen - Mejores prácticas de la cuenta.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\018 Resumen - Mejores prácticas de la cuenta.mp4"
+        },
+        {
+          "name": "019 Resumen - Facturación.mp4",
+          "path": "certified-cloud-practitioner-aws/18 - Gestión de la cuenta, facturación y soporte técnico/019 Resumen - Facturación.mp4",
+          "folder": "18 - Gestión de la cuenta, facturación y soporte técnico",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\18 - Gestión de la cuenta, facturación y soporte técnico\\019 Resumen - Facturación.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/19 - Identidad avanzada",
+      "count": 5,
+      "videos": [
+        {
+          "name": "001 Visión general de Security Token Service (STS).mp4",
+          "path": "certified-cloud-practitioner-aws/19 - Identidad avanzada/001 Visión general de Security Token Service (STS).mp4",
+          "folder": "19 - Identidad avanzada",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\19 - Identidad avanzada\\001 Visión general de Security Token Service (STS).mp4"
+        },
+        {
+          "name": "002 Visión general de Cognito.mp4",
+          "path": "certified-cloud-practitioner-aws/19 - Identidad avanzada/002 Visión general de Cognito.mp4",
+          "folder": "19 - Identidad avanzada",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\19 - Identidad avanzada\\002 Visión general de Cognito.mp4"
+        },
+        {
+          "name": "003 Visión general de Directory Services.mp4",
+          "path": "certified-cloud-practitioner-aws/19 - Identidad avanzada/003 Visión general de Directory Services.mp4",
+          "folder": "19 - Identidad avanzada",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\19 - Identidad avanzada\\003 Visión general de Directory Services.mp4"
+        },
+        {
+          "name": "004 AWS IAM Identity Center.mp4",
+          "path": "certified-cloud-practitioner-aws/19 - Identidad avanzada/004 AWS IAM Identity Center.mp4",
+          "folder": "19 - Identidad avanzada",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\19 - Identidad avanzada\\004 AWS IAM Identity Center.mp4"
+        },
+        {
+          "name": "005 Resumen - Identidad avanzada.mp4",
+          "path": "certified-cloud-practitioner-aws/19 - Identidad avanzada/005 Resumen - Identidad avanzada.mp4",
+          "folder": "19 - Identidad avanzada",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\19 - Identidad avanzada\\005 Resumen - Identidad avanzada.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/20 - Otros servicios",
+      "count": 18,
+      "videos": [
+        {
+          "name": "001 Introducción a otros servicios.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/001 Introducción a otros servicios.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\001 Introducción a otros servicios.mp4"
+        },
+        {
+          "name": "002 Visión general de WorkSpaces.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/002 Visión general de WorkSpaces.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\002 Visión general de WorkSpaces.mp4"
+        },
+        {
+          "name": "003 Visión general de AppStream 2.0.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/003 Visión general de AppStream 2.0.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\003 Visión general de AppStream 2.0.mp4"
+        },
+        {
+          "name": "004 Visión general de Sumerian.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/004 Visión general de Sumerian.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\004 Visión general de Sumerian.mp4"
+        },
+        {
+          "name": "005 Visión general de IoT Core.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/005 Visión general de IoT Core.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\005 Visión general de IoT Core.mp4"
+        },
+        {
+          "name": "006 Visión general de Elastic Transcoder.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/006 Visión general de Elastic Transcoder.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\006 Visión general de Elastic Transcoder.mp4"
+        },
+        {
+          "name": "007 AppSync.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/007 AppSync.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\007 AppSync.mp4"
+        },
+        {
+          "name": "008 Amplify.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/008 Amplify.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\008 Amplify.mp4"
+        },
+        {
+          "name": "009 Visión general de Device Farm.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/009 Visión general de Device Farm.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\009 Visión general de Device Farm.mp4"
+        },
+        {
+          "name": "010 Visión general de AWS Backup.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/010 Visión general de AWS Backup.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\010 Visión general de AWS Backup.mp4"
+        },
+        {
+          "name": "011 AWS Elastic Disaster Recovery (DRS).mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/011 AWS Elastic Disaster Recovery (DRS).mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\011 AWS Elastic Disaster Recovery (DRS).mp4"
+        },
+        {
+          "name": "012 AWS DataSync.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/012 AWS DataSync.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\012 AWS DataSync.mp4"
+        },
+        {
+          "name": "013 Application Discovery Service y Application Migration Service.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/013 Application Discovery Service y Application Migration Service.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\013 Application Discovery Service y Application Migration Service.mp4"
+        },
+        {
+          "name": "014 AWS Migration Evaluator.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/014 AWS Migration Evaluator.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\014 AWS Migration Evaluator.mp4"
+        },
+        {
+          "name": "015 AWS Fault Injection Simulator (FIS).mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/015 AWS Fault Injection Simulator (FIS).mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\015 AWS Fault Injection Simulator (FIS).mp4"
+        },
+        {
+          "name": "016 Step Functions.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/016 Step Functions.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\016 Step Functions.mp4"
+        },
+        {
+          "name": "017 Ground Station.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/017 Ground Station.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\017 Ground Station.mp4"
+        },
+        {
+          "name": "018 Amazon PinPoint.mp4",
+          "path": "certified-cloud-practitioner-aws/20 - Otros servicios/018 Amazon PinPoint.mp4",
+          "folder": "20 - Otros servicios",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\20 - Otros servicios\\018 Amazon PinPoint.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS",
+      "count": 14,
+      "videos": [
+        {
+          "name": "001 AWS WhitePapers del Framework Well-Architected.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/001 AWS WhitePapers del Framework Well-Architected.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\001 AWS WhitePapers del Framework Well-Architected.mp4"
+        },
+        {
+          "name": "002 Primer pilar La excelencia operativa.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/002 Primer pilar La excelencia operativa.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\002 Primer pilar La excelencia operativa.mp4"
+        },
+        {
+          "name": "003 Segundo pilar Seguridad.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/003 Segundo pilar Seguridad.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\003 Segundo pilar Seguridad.mp4"
+        },
+        {
+          "name": "004 Tercer pilar Fiabilidad.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/004 Tercer pilar Fiabilidad.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\004 Tercer pilar Fiabilidad.mp4"
+        },
+        {
+          "name": "005 Cuarto pilar Eficiencia del rendimiento.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/005 Cuarto pilar Eficiencia del rendimiento.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\005 Cuarto pilar Eficiencia del rendimiento.mp4"
+        },
+        {
+          "name": "006 Quinto pilar Optimización de costes.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/006 Quinto pilar Optimización de costes.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\006 Quinto pilar Optimización de costes.mp4"
+        },
+        {
+          "name": "007 Sexto pilar Sostenibilidad.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/007 Sexto pilar Sostenibilidad.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\007 Sexto pilar Sostenibilidad.mp4"
+        },
+        {
+          "name": "008 Herramienta AWS Well-Architected.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/008 Herramienta AWS Well-Architected.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\008 Herramienta AWS Well-Architected.mp4"
+        },
+        {
+          "name": "009 AWS Cloud Adoption Framework (CAF).mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/009 AWS Cloud Adoption Framework (CAF).mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\009 AWS Cloud Adoption Framework (CAF).mp4"
+        },
+        {
+          "name": "010 Dimensionamiento correcto.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/010 Dimensionamiento correcto.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\010 Dimensionamiento correcto.mp4"
+        },
+        {
+          "name": "011 Ecosistema AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/011 Ecosistema AWS.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\011 Ecosistema AWS.mp4"
+        },
+        {
+          "name": "012 Centro de conocimiento de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/012 Centro de conocimiento de AWS.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\012 Centro de conocimiento de AWS.mp4"
+        },
+        {
+          "name": "013 AWS IQ & rePost.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/013 AWS IQ & rePost.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\013 AWS IQ & rePost.mp4"
+        },
+        {
+          "name": "014 AWS Managed Services.mp4",
+          "path": "certified-cloud-practitioner-aws/21 - Arquitectura y ecosistema de AWS/014 AWS Managed Services.mp4",
+          "folder": "21 - Arquitectura y ecosistema de AWS",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\21 - Arquitectura y ecosistema de AWS\\014 AWS Managed Services.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+      "count": 7,
+      "videos": [
+        {
+          "name": "001 Información sobre otros servicios en el examen de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/001 Información sobre otros servicios en el examen de AWS.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\001 Información sobre otros servicios en el examen de AWS.mp4"
+        },
+        {
+          "name": "002 Punto de control del aprendizaje - AWS Certified Cloud Practitioner.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/002 Punto de control del aprendizaje - AWS Certified Cloud Practitioner.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\002 Punto de control del aprendizaje - AWS Certified Cloud Practitioner.mp4"
+        },
+        {
+          "name": "003 Recorrido por preguntas del examen de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/003 Recorrido por preguntas del examen de AWS.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\003 Recorrido por preguntas del examen de AWS.mp4"
+        },
+        {
+          "name": "004 Consejos para el examen - AWS Certified Cloud Practitioner.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/004 Consejos para el examen - AWS Certified Cloud Practitioner.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\004 Consejos para el examen - AWS Certified Cloud Practitioner.mp4"
+        },
+        {
+          "name": "005 Recorrido y registro en el examen.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/005 Recorrido y registro en el examen.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\005 Recorrido y registro en el examen.mp4"
+        },
+        {
+          "name": "006 Ahorra un 50% en el coste de tu examen de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/006 Ahorra un 50% en el coste de tu examen de AWS.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\006 Ahorra un 50% en el coste de tu examen de AWS.mp4"
+        },
+        {
+          "name": "007 Obtén 30 minutos extra en tu examen de AWS - sólo para no nativos de inglés.mp4",
+          "path": "certified-cloud-practitioner-aws/22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner/007 Obtén 30 minutos extra en tu examen de AWS - sólo para no nativos de inglés.mp4",
+          "folder": "22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\22 - Preparación para el examen + Examen práctico - AWS Certified Cloud Practitioner\\007 Obtén 30 minutos extra en tu examen de AWS - sólo para no nativos de inglés.mp4"
+        }
+      ]
+    },
+    {
+      "name": "certified-cloud-practitioner-aws/23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner",
+      "count": 3,
+      "videos": [
+        {
+          "name": "001 ¡Enhorabuena! - AWS Certified Cloud Practitioner.mp4",
+          "path": "certified-cloud-practitioner-aws/23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner/001 ¡Enhorabuena! - AWS Certified Cloud Practitioner.mp4",
+          "folder": "23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner\\001 ¡Enhorabuena! - AWS Certified Cloud Practitioner.mp4"
+        },
+        {
+          "name": "002 Rutas de certificación de AWS.mp4",
+          "path": "certified-cloud-practitioner-aws/23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner/002 Rutas de certificación de AWS.mp4",
+          "folder": "23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner\\002 Rutas de certificación de AWS.mp4"
+        },
+        {
+          "name": "003 Gracias.mp4",
+          "path": "certified-cloud-practitioner-aws/23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner/003 Gracias.mp4",
+          "folder": "23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner",
+          "fullPath": "C:\\Users\\rluna\\Desktop\\cloud practitioner\\certified-cloud-practitioner-aws\\23 - ¡Enhorabuena! - AWS Certified Cloud Practitioner\\003 Gracias.mp4"
+        }
+      ]
+    }
+  ]
+}
