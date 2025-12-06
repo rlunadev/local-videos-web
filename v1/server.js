@@ -5,37 +5,42 @@ const url = require("url");
 
 const PORT = 8000;
 const BASE_DIR = __dirname;
+const REACT_BUILD_DIR = path.join(__dirname, 'react-app', 'dist');
+
+// Check if React build exists
+const useReactBuild = fs.existsSync(REACT_BUILD_DIR);
 
 const server = http.createServer((req, res) => {
-  // Parsear la URL
   const parsedUrl = url.parse(req.url || "/", true);
-  // Decodificar la ruta para convertir %20 y otros caracteres en sus equivalentes
-  // Protegemos con try/catch por si la URL está malformada
   let pathname = "/";
+
   try {
     pathname = decodeURIComponent(parsedUrl.pathname || "/");
   } catch (e) {
-    // Si falla la decodificación, usamos la versión sin decodificar (más segura que fallar)
     pathname = parsedUrl.pathname || "/";
   }
 
-  // Normalizar la ruta: quitar slashes iniciales para que path.join funcione correctamente
   let trimmed = (pathname || "/").replace(/^\/+/, "");
-  if (!trimmed) trimmed = "index.html";
 
-  // Construir ruta del archivo de forma segura usando resolve
-  const fullPath = path.join(BASE_DIR, trimmed);
+  // If root, serve from React build if exists, otherwise original HTML
+  if (!trimmed || trimmed === '/') {
+    trimmed = "index.html";
+  }
+
+  // Determine which directory to serve from
+  const isVideoOrJson = trimmed.startsWith('certified-cloud-practitioner-aws') || trimmed.includes('.json');
+  const serveDir = (useReactBuild && !isVideoOrJson) ? REACT_BUILD_DIR : BASE_DIR;
+
+  const fullPath = path.join(serveDir, trimmed);
   const resolvedPath = path.resolve(fullPath);
-  const resolvedBase = path.resolve(BASE_DIR);
+  const resolvedBase = path.resolve(serveDir);
 
-  // Seguridad: evitar acceso fuera del directorio base
   if (!resolvedPath.startsWith(resolvedBase)) {
     res.writeHead(403, { "Content-Type": "text/plain" });
     res.end("Acceso prohibido");
     return;
   }
 
-  // Leer el archivo
   fs.stat(resolvedPath, (err, stat) => {
     if (err) {
       if (err.code === "ENOENT") {
@@ -48,7 +53,6 @@ const server = http.createServer((req, res) => {
       return;
     }
 
-    // Determinar el tipo de contenido
     const ext = path.extname(resolvedPath).toLowerCase();
     let contentType = "text/plain";
 
@@ -95,71 +99,71 @@ const server = http.createServer((req, res) => {
         break;
     }
 
-    // Para videos, soportar range requests
-    if ([".mp4", ".mkv", ".webm", ".avi", ".mov"].includes(ext)) {
+    if ([\".mp4\", \".mkv\", \".webm\", \".avi\", \".mov\"].includes(ext)) {
       const fileSize = stat.size;
-      const range = req.headers.range;
+    const range = req.headers.range;
 
-      if (range) {
-        const parts = range.replace(/bytes=/, "").split("-");
-        const start = parseInt(parts[0], 10);
-        const end = parts[1] ? parseInt(parts[1], 10) : fileSize - 1;
+    if (range) {
+      const parts = range.replace(/bytes=/, "").split("-");
+      const start = parseInt(parts[0], 10);
+      const end = parts[1] ? parseInt(parts[1], 10) : fileSize - 1;
 
-        if (start >= fileSize) {
-          res.writeHead(416, {
-            "Content-Range": `bytes */${fileSize}`,
-            "Content-Type": contentType,
-          });
-          res.end();
-          return;
-        }
-
-        const chunkSize = end - start + 1;
-
-        res.writeHead(206, {
-          "Content-Range": `bytes ${start}-${end}/${fileSize}`,
-          "Accept-Ranges": "bytes",
-          "Content-Length": chunkSize,
+      if (start >= fileSize) {
+        res.writeHead(416, {
+          "Content-Range": `bytes */${fileSize}`,
           "Content-Type": contentType,
         });
-
-        fs.createReadStream(resolvedPath, { start, end }).pipe(res);
-      } else {
-        res.writeHead(200, {
-          "Content-Length": fileSize,
-          "Accept-Ranges": "bytes",
-          "Content-Type": contentType,
-        });
-
-        fs.createReadStream(resolvedPath).pipe(res);
+        res.end();
+        return;
       }
-    } else {
-      // Para otros archivos, leer completamente
-      fs.readFile(resolvedPath, (err, data) => {
-        if (err) {
-          if (err.code === "ENOENT") {
-            res.writeHead(404, { "Content-Type": "text/plain" });
-            res.end("Archivo no encontrado");
-          } else {
-            res.writeHead(500, { "Content-Type": "text/plain" });
-            res.end("Error del servidor");
-          }
-          return;
-        }
 
-        res.writeHead(200, { "Content-Type": contentType });
-        res.end(data);
+      const chunkSize = end - start + 1;
+
+      res.writeHead(206, {
+        "Content-Range": `bytes ${start}-${end}/${fileSize}`,
+        "Accept-Ranges": "bytes",
+        "Content-Length": chunkSize,
+        "Content-Type": contentType,
       });
+
+      fs.createReadStream(resolvedPath, { start, end }).pipe(res);
+    } else {
+      res.writeHead(200, {
+        "Content-Length": fileSize,
+        "Accept-Ranges": "bytes",
+        "Content-Type": contentType,
+      });
+
+      fs.createReadStream(resolvedPath).pipe(res);
     }
+  } else {
+    fs.readFile(resolvedPath, (err, data) => {
+      if (err) {
+        if (err.code === "ENOENT") {
+          res.writeHead(404, { "Content-Type": "text/plain" });
+          res.end("Archivo no encontrado");
+        } else {
+          res.writeHead(500, { "Content-Type": "text/plain" });
+          res.end("Error del servidor");
+        }
+        return;
+      }
+
+      res.writeHead(200, { "Content-Type": contentType });
+      res.end(data);
+    });
+  }
   });
 });
 
 server.listen(PORT, "0.0.0.0", () => {
+  const mode = useReactBuild ? 'React App (Build)' : 'HTML Original       ';
   console.log(`
 ╔════════════════════════════════════════════════════╗
 ║  🎓 AWS Certified Cloud Practitioner - Servidor   ║
 ║                                                    ║
 ║  Abre tu navegador en: http://localhost:${PORT}      ║
+║  Sirviendo: ${mode}                    ║
 ║                                                    ║
 ║  Presiona Ctrl+C para detener el servidor        ║
 ╚════════════════════════════════════════════════════╝

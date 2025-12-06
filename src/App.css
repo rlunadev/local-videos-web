@@ -1,0 +1,51 @@
+/* Dark Netflix-like responsive theme */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: Inter, 'Segoe UI', Tahoma, Arial, sans-serif;
+  background: #071018;
+  color: #e6eef8;
+  padding: 0 16px 60px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.loading {
+  color: #9fb2c9;
+  padding: 40px;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.footer {
+  text-align: center;
+  color: #6f8ea6;
+  margin-top: 40px;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 0 12px 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 0 10px 40px;
+  }
+}

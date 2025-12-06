@@ -1,0 +1,135 @@
+.player-section {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(2, 6, 10, 0.95);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+    z-index: 1200;
+    padding: 12px;
+}
+
+.player-section.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+.player-card {
+    width: 100%;
+    max-width: 1200px;
+    background: #071018;
+    border-radius: 8px;
+    padding: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.9);
+}
+
+.video-player {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+    background: #000;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.video-player video {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: #000;
+}
+
+.player-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    gap: 8px;
+    color: #cfe7ff;
+}
+
+.player-title {
+    flex: 1;
+    min-width: 150px;
+    font-size: 0.95rem;
+}
+
+.player-controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.nav-btn {
+    background: #1b2228;
+    border: 1px solid #23313a;
+    color: #9fb2c9;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.2s ease;
+    white-space: nowrap;
+}
+
+.nav-btn:hover:not(:disabled) {
+    background: #23313a;
+}
+
+.nav-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.close-btn {
+    background: #0b0f14;
+    border: 1px solid #23313a;
+    color: #9fb2c9;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.2s ease;
+}
+
+.close-btn:hover {
+    background: #1b2228;
+}
+
+@media (max-width: 768px) {
+    .player-card {
+        padding: 10px;
+    }
+
+    .player-meta {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .player-controls {
+        width: 100%;
+    }
+
+    .nav-btn {
+        flex: 1;
+    }
+
+    .video-player {
+        aspect-ratio: 16/9;
+    }
+}
+
+@media (max-width: 480px) {
+    .player-title {
+        font-size: 0.85rem;
+    }
+
+    .nav-btn {
+        padding: 6px 10px;
+        font-size: 0.8rem;
+    }
+}
